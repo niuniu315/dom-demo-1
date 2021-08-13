@@ -1,0 +1,8 @@
+7
+40C:\Users\Administrator\Desktop\dom-1\src132650117807080589 1
+41C:\Users\Administrator\Desktop\dom-1\dist132650118268274997 1
+52C:\Users\Administrator\Desktop\dom-1\dist\index.html132650118268205183 0
+51C:\Users\Administrator\Desktop\dom-1\src\index.html132650108868943235 0
+59C:\Users\Administrator\Desktop\dom-1\dist\index.bd78eeec.js132650118268225127 0
+48C:\Users\Administrator\Desktop\dom-1\src\main.js132650117807080000 0
+63C:\Users\Administrator\Desktop\dom-1\dist\index.bd78eeec.js.map132650118268265026 0
